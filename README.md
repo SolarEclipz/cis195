@@ -30,10 +30,9 @@ Javascipt Section
 Javascipt was the last two weeks half of the class. It was more of an introduction to the world of JavaScript before
 the later class CIS195 - Internet Programming 2, which came in spring 2018
 
-<br>
 Setup / Programs used
 =============
-<br>
+
 + Notepad ++ - For first week
 + Atom - For Last week
 + Sublime Text 3
