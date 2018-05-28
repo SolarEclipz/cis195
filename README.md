@@ -1,11 +1,14 @@
 CIS195 Internet Programming Essentials
 ========================================
-This folder contains all coursework for HTML/CSS/Javascipt for this class.
+This folder contains all coursework for HTML/CSS/Javascipt for this class. There are some missing assignments that were lost due to a drive failure.
 <br>
-There are some missing assignments that were lost due to a drive failure.
+The Textbook used for this class was
+> New Prespectives HTML5, CSS3, and Javascipt 6th edition.
+> ISBN-10: 1-305-50392-9
 <br>
 <br>
 Each section may contain the following
+* Tutorials - Are each chapter from the book
 * Walkthrough - These are following along with the book
 * Cases - These are problems at the end of a chapter that must be solved for a finished product.
 
