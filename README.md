@@ -13,6 +13,7 @@ Each section may contain the following:
 * Tutorials - Are each chapter from the book
 * Walkthrough - These are following along with the book
 * Cases - These are problems at the end of a chapter that must be solved for a finished product.
+<br>
 
 HTML Section
 ============
@@ -28,3 +29,14 @@ Javascipt Section
 ==================
 Javascipt was the last two weeks half of the class. It was more of an introduction to the world of JavaScript before
 the later class CIS195 - Internet Programming 2, which came in spring 2018
+
+<br>
+Setup / Programs used
+=============
++ Notepad ++ - For first week
++ Atom - For Last week
++ Sublime Text 3
++ Google Chrome 64bit
++ Safari
++ HP Zbook 15 G4
++ Late 2013 13inch MacBook Pro
