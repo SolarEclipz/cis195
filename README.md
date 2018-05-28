@@ -4,6 +4,7 @@ This folder contains all coursework for HTML/CSS/Javascipt for this class.
 <br>
 There are some missing assignments that were lost due to a drive failure.
 <br>
+<br>
 Each section may contain the following
 * Walkthrough - These are following along with the book
 * Cases - These are problems at the end of a chapter that must be solved for a finished product.
