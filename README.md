@@ -33,8 +33,8 @@ the later class CIS195 - Internet Programming 2, which came in spring 2018
 Setup / Programs used
 =============
 
-+ Notepad ++ - For first week
-+ Atom - For Last week
++ Notepad ++ - For the first week
++ Atom - For the last week
 + Sublime Text 3
 + Google Chrome 64bit
 + Safari
